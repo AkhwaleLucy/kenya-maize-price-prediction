@@ -1,0 +1,16 @@
+{
+  "model": "Linear Regression",
+  "origin": "2026-10",
+  "dataset_version": "2026-10-05",
+  "units": "KSh/kg",
+  "intervals": null,
+  "features": [
+    "market",
+    "current close",
+    "lags 1,2,3,12",
+    "3-month rolling mean",
+    "month sine/cosine"
+  ],
+  "forecast_source": "Report, rounded to 2 decimals",
+  "history_source": "World Bank c_maize_fao"
+}

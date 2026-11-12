@@ -31,7 +31,7 @@ All site files are in dist/: index.html, style.css, app.js, data.json, forecasts
 
 ## Updating
 
-Validate a revised model separately, then replace data.json, forecasts.csv and model-card.json. Update the origin, source release and evaluation figures in index.html and app.js together. Notebook/report links currently point to the author's ChatGPT files and require file access; replace with public copies for external reviewers when ready.
+Validate a revised model separately, then replace data.json, forecasts.csv and model-card.json. Update the origin, source release and evaluation figures in index.html and app.js together. Notebook and report files are not included in this public repository. Their private ChatGPT links have been omitted; add public copies for external reviewers when ready.
 
 ## Data source
 
